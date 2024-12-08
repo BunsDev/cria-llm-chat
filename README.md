@@ -1,5 +1,6 @@
 # 🍼🦙 CRIA
 
+[Original Website](https://chat.walterteng.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a9502b61-04e1-4202-be27-e5bd304321ae/deploy-status)](https://app.netlify.com/sites/cria-chat/deploys)
 
 💡 [Article](https://walterteng.com/cria) | 💻 [HuggingFace](https://huggingface.co/davzoku/cria-llama2-7b-v1.3) | 📔 Colab [1](https://colab.research.google.com/drive/1rYTs3qWJerrYwihf1j0f00cnzzcpAfYe),[2](https://colab.research.google.com/drive/1Wjs2I1VHjs6zT_GE42iEXsLtYh6VqiJU)
